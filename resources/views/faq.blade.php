@@ -16,6 +16,7 @@
                 <div class="container-domanda">
                     <span>Chi può fare il corso Boolean?</span>
                     <i class="fas fa-plus"></i>
+                    <i class="fas fa-minus"></i>
                 </div>
                 <div class="container-risposta">
                     <p>
@@ -29,6 +30,7 @@
                 <div class="container-domanda">
                     <span>Che competenze devo avere per iniziare il corso?</span>
                     <i class="fas fa-plus"></i>
+                    <i class="fas fa-minus"></i>
                 </div>
                 <div class="container-risposta">
                     <p>
@@ -41,6 +43,7 @@
                 <div class="container-domanda">
                     <span>In cosa consiste il processo di selezione?</span>
                     <i class="fas fa-plus"></i>
+                    <i class="fas fa-minus"></i>
                 </div>
                 <div class="container-risposta">
                     <p>
@@ -53,6 +56,7 @@
                 <div class="container-domanda">
                     <span>Di cosa ho bisogno per seguire il corso?</span>
                     <i class="fas fa-plus"></i>
+                    <i class="fas fa-minus"></i>
                 </div>
                 <div class="container-risposta">
                     <p>
@@ -67,6 +71,7 @@
                 <div class="container-domanda">
                     <span>Ho la certezza di essere assunto?</span>
                     <i class="fas fa-plus"></i>
+                    <i class="fas fa-minus"></i>
                 </div>
                 <div class="container-risposta">
                     <p>
@@ -81,6 +86,7 @@
                         Terminato il corso, sono supportato nella ricerca del lavoro?
                     </span>
                     <i class="fas fa-plus"></i>
+                    <i class="fas fa-minus"></i>
                 </div>
                 <div class="container-risposta">
                     <p>
@@ -93,6 +99,7 @@
                 <div class="container-domanda">
                     <span>Quanti dei vostri ex allievi hanno ricevuto offerte di lavoro?</span>
                     <i class="fas fa-plus"></i>
+                    <i class="fas fa-minus"></i>
                 </div>
                 <div class="container-risposta">
                     <p>
@@ -105,6 +112,7 @@
                 <div class="container-domanda">
                     <span>Posso fare lo sviluppatore freelance al termine del corso?</span>
                     <i class="fas fa-plus"></i>
+                    <i class="fas fa-minus"></i>
                 </div>
                 <div class="container-risposta">
                     <p>
