@@ -5,16 +5,16 @@
     <div class="navbar-right">
         <ul>
             <li>
-                <a class="active" href="">home</a>
+                <a class="active" href="/">home</a>
             </li>
             <li>
-                <a href="">corso</a>
+                <a href="#">corso</a>
             </li>
             <li>
-                <a href="">dopo il corso</a>
+                <a href="#">dopo il corso</a>
             </li>
             <li>
-                <a href="">lezione gratuita</a>
+                <a href="#">lezione gratuita</a>
             </li>
             <li>
                 <button>candidati ora</button>
