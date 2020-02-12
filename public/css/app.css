@@ -165,6 +165,11 @@ header {
 .container-faq .container-prima-corso .container-domanda-risposta .container-domanda span,
 .container-faq .container-prima-corso .container-domanda-risposta .container-domanda i {
   font-size: 22px;
+  cursor: pointer;
+}
+
+.container-faq .container-prima-corso .container-domanda-risposta .container-domanda .fa-minus {
+  display: none;
 }
 
 .container-faq .container-prima-corso .container-domanda-risposta .container-risposta {
@@ -195,14 +200,11 @@ header {
 .container-faq .container-dopo-corso .container-domanda-risposta .container-domanda span,
 .container-faq .container-dopo-corso .container-domanda-risposta .container-domanda i {
   font-size: 22px;
+  cursor: pointer;
 }
 
-.container-faq .container-dopo-corso .container-domanda-risposta .container-domanda i {
+.container-faq .container-dopo-corso .container-domanda-risposta .container-domanda .fa-minus {
   display: none;
-}
-
-.container-faq .container-dopo-corso .container-domanda-risposta .container-domanda i.active {
-  display: block;
 }
 
 .container-faq .container-dopo-corso .container-domanda-risposta .container-risposta {
