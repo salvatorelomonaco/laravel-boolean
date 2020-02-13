@@ -13,8 +13,12 @@
 
 Route::get('/', function () {
     return view('home');
-});
+})->name('homepage');
 
-Route::get('faq', function () {
-    return view('faq');
-});
+Route::get('/faq', function () {
+    return view('faq',
+    [
+        'faq_sinistra' => config('dati_faq.faqs_sx'),
+        'faq_destra' => config('dati_faq.faqs_dx')
+    ]);
+})->name('domande-frequenti');
