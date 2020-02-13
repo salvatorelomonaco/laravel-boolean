@@ -5,7 +5,7 @@
     <div class="navbar-right">
         <ul>
             <li>
-                <a class="active" href="/">home</a>
+                <a class="active" href={{ route('homepage') }}>home</a>
             </li>
             <li>
                 <a href="#">corso</a>

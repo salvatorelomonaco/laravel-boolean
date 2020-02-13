@@ -8,7 +8,7 @@
         </div>
         <div class="footer-right">
             <a href="#">Lezione gratuita</a>
-            <a href="/faq">Domande frequenti</a>
+            <a href={{ route('domande-frequenti') }}>Domande frequenti</a>
             <a href="#">Per le aziende</a>
             <a href="#">Privacy policy</a>
             <a href="#">Lavora con noi</a>
